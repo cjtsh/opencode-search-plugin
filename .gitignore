@@ -1,0 +1,9 @@
+# opencode plugin: .env files contain real API keys. Never commit.
+.env
+
+# macOS
+.DS_Store
+
+# Node / Bun
+node_modules/
+*.log
