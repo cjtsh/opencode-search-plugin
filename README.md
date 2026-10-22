@@ -219,3 +219,8 @@ You're likely running in non-TUI mode (SDK / server). Toasts require the TUI —
 ## License
 
 MIT © 2026 [mypbs](https://github.com/mypbs)
+
+
+## Legal notice
+
+This plugin is provided under the [MIT License](LICENSE). Review the [disclaimer](DISCLAIMER.md) before configuring external search providers, API keys, or model-generated queries. The canonical Bitseeker LLC disclaimer is pinned at [software-disclaimer v1.2.2](https://github.com/cjtsh/software-disclaimer/releases/tag/v1.2.2).
